@@ -291,7 +291,7 @@ body{
     border-radius: 50%;
   }
   /* for all */
-  @media  (min-width: 300px) and (max-width: 767px) {
+  @media  (min-width: 200px) and (max-width: 767px) {
     
     .about-section{
         margin-top: 350px;
