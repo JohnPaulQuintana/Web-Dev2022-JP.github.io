@@ -294,7 +294,7 @@ body{
   @media  (min-width: 200px) and (max-width: 767px) {
     
     .about-section{
-        margin-top: 350px;
+        margin-top: 500px;
     }
     .about-section #header{
         margin-top: -200px;
@@ -313,9 +313,7 @@ body{
     .contact{
         margin-top: 350px;
     }
-    #home{
-      margin-top: 300px;
-    }
+    
   }
  /* Add animation to next section when scrolling down */
 
