@@ -292,10 +292,7 @@ body{
   }
   /* for all */
   @media  (min-width: 300px) and (max-width: 767px) {
-    .hero{
-       margin-top: 1000px;
-       border: 1px solid red;
-    }
+    
     .about-section{
         margin-top: 350px;
     }
@@ -315,6 +312,9 @@ body{
     }
     .contact{
         margin-top: 350px;
+    }
+    #home{
+      margin-top: 400px;
     }
   }
  /* Add animation to next section when scrolling down */
