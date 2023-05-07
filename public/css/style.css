@@ -294,6 +294,7 @@ body{
   @media  (min-width: 300px) and (max-width: 767px) {
     .hero{
        margin-top: 1000px;
+       border: 1px solid red;
     }
     .about-section{
         margin-top: 350px;
