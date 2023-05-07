@@ -292,6 +292,9 @@ body{
   }
   /* for all */
   @media  (min-width: 300px) and (max-width: 767px) {
+    .home{
+       margin-top: 350px;
+    }
     .about-section{
         margin-top: 350px;
     }
