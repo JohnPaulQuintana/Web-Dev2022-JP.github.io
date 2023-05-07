@@ -294,7 +294,7 @@ body{
   @media  (min-width: 300px) and (max-width: 767px) {
     
     .about-section{
-        margin-top: 350px;
+        margin-top: 500px;
     }
     .about-section #header{
         margin-top: -200px;
